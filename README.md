@@ -29,3 +29,8 @@ I love building clean, maintainable code, working in collaborative teams, and de
 ---
 
 ![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorNaumann&show_icons=true&theme=tokyonight)
+
+## 📊 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorNaumann&layout=compact&theme=tokyonight)
+
