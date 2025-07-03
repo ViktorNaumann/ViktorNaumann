@@ -33,3 +33,4 @@ I love building clean, maintainable code, working in collaborative teams, and de
 ![snake gif](https://github.com/ViktorNaumann/ViktorNaumann/blob/output/github-contribution-grid-snake.svg)
 
 
+
