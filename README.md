@@ -22,10 +22,6 @@ I love building clean, maintainable code, working in collaborative teams, and de
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-naumann)
-
 ---
 
 ![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorNaumann&show_icons=true&theme=tokyonight)
@@ -33,4 +29,9 @@ I love building clean, maintainable code, working in collaborative teams, and de
 ## 📊 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorNaumann&layout=compact&theme=tokyonight)
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-naumann)
+✉️ **E-Mail:** [Viktor_Naumann@hotmail.de](mailto:Viktor_Naumann@hotmail.de)
 
