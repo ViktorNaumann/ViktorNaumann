@@ -29,10 +29,3 @@ I love building clean, maintainable code, working in collaborative teams, and de
 ---
 
 ![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorNaumann&show_icons=true&theme=tokyonight)
-
-![snake gif](https://github.com/ViktorNaumann/ViktorNaumann/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
