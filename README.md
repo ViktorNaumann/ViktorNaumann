@@ -32,6 +32,6 @@ I love building clean, maintainable code, working in collaborative teams, and de
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-naumann)
-✉️ **E-Mail:** [Viktor_Naumann@hotmail.de](mailto:Viktor_Naumann@hotmail.de)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-naumann)
+- ✉️ **E-Mail:** [Viktor_Naumann@hotmail.de](mailto:Viktor_Naumann@hotmail.de)
 
