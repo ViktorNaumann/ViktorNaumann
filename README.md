@@ -8,9 +8,24 @@ I love building clean, maintainable code, working in collaborative teams, and de
 
 ## 🚀 What I'm working on
 
-- Expanding my Angular projects
-- Learning advanced API integrations
-- Improving my UI/UX design skills with Material Design
+## 📂 Featured Project
+
+Check out my latest project:  
+👉 [n8n-daily-email-summary](https://github.com/ViktorNaumann/n8n-daily-email-summary)  
+
+An automated **n8n workflow** that:
+- 📬 Fetches Gmail messages
+- 📦 Aggregates them
+- 🧠 Summarizes with OpenAI
+- 📩 Sends a daily email summary
+
+
+## 🚀 What I'm working on
+
+- ⚡ Expanding my **Angular** projects  
+- 🔗 Learning advanced **API integrations**  
+- 🎨 Improving my **UI/UX design** skills with Material Design  
+
 
 ## 🛠 Tech Stack
 
